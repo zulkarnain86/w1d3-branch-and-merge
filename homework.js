@@ -1,4 +1,4 @@
-// ZULKARNAIN JavaScript Homework
+// HUSNA JavaScript Homework
 
 // 1. Write an if/else statement
 var APPLE_QUANTITY = 5;
