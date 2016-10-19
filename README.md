@@ -32,7 +32,7 @@ Now you're going to collaborate with your friend to make a change to howework.js
 
 - First, go to this forked repo, and go to **settings**. 
 - In settings click **Collaborators & teams** below options. 
-- Now input your password so can go in. 
+- Now input your password so you can go in. 
 - Decide with your friend who's going to invite and accept the invitation. 
 - In collaborators tab, write your friends username to add collaborator. 
 - After that copy the invitation link to your friend so your friend can be a collaborator to your repo.
