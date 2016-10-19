@@ -1,6 +1,6 @@
 ![](https://makersinstitute.id/img/logo-makersinstitute.png)
 
-# JavaScript Homework
+# Instructions
 
 Let’s keep applying the Git collaboration skills we're learning.
 
